@@ -1,5 +1,5 @@
 import React from 'react'
-// import "./Template.css"
+import "../Template.css"
 import '../css/bootstrap.min.css';
 import '../css/animate.min.css';
 // import '../src/css/magnific-popup.css';
@@ -42,7 +42,9 @@ const Home = () => {
                     </div>
                 </section>
                 <section>
-                    <img style={{ width: "100%" }} src="/images/saffron-login.jpg" alt="" />
+                    <div className='safron-img'>
+                        <img src="" alt="" />
+                    </div>
                 </section>
                 <section className="game-single-area pt-120 pb-120">
                     <div className="container">
