@@ -42,7 +42,7 @@ const Home = () => {
                     </div>
                 </section>
                 <section>
-                    <img style={{ width: "100%" }} src="./images/saffron-login.png" alt="" />
+                    <img style={{ width: "100%" }} src="./images/saffron-login.jpg" alt="" />
                 </section>
                 <section className="game-single-area pt-120 pb-120">
                     <div className="container">
