@@ -15,7 +15,7 @@ const Contact = () => {
               <div className="col-xl-9">
                 <div className="slider-content text-center">
                   <div className="logo">
-                    <a href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD" target="_blank"><img src="./images/saffronexch-logo.jpg" alt="Logo" width="200px" /></a>
+                    <a href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD" target="_blank"><img src="./images/scorecard-logo.png" alt="Logo" width="200px" /></a>
                   </div>
                   <h6 className="wow fadeInDown" data-wow-delay=".2s">Saffron Exch - Get your Trusted Online ID</h6>
                   <h2 className="tlt fix" data-in-effect="fadeInLeft">Trusted fantasy <span>sports platform</span></h2>

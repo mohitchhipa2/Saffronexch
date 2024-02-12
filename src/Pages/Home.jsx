@@ -25,12 +25,13 @@ const Home = () => {
             <main>
                 <a target="_blank" href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD" className="enq-side-btn-icone"><i className="fab fa-whatsapp" /> Click Here to Get ID</a>
                 <section className="slider-area slider-bg">
+                    <img style={{ width: "200px", height: "70px", marginLeft: "20px" }} src="./images/logo2.png" alt="" />
                     <div className="container">
                         <div className="row justify-content-center">
                             <div className="col-xl-9">
                                 <div className="slider-content text-center">
-                                    <div className="logo">
-                                        <a target="_blank" href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD"><img src="./images/saffronexch-logo.jpg" alt="Logo" width="200px" /></a>
+                                    <div style={{ marginTop: "50px" }} className="logo">
+                                        <a target="_blank" href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD"><img src="./images/scorecard-logo.png" alt="Logo" width="200px" /></a>
                                     </div>
                                     <h6 className="wow fadeInDown" data-wow-delay=".2s">Saffron Exch [10 साल का भरोसा] - Get your Trusted Fantasy Sport</h6>
                                     <h2 className="tlt fix" data-in-effect="fadeInLeft">Trusted daily fantasy sport <span>10% Welcome Bonus</span></h2>
