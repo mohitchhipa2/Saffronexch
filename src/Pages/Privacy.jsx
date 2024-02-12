@@ -4,12 +4,12 @@ const Privacy = () => {
     return (
         <div>
             <main>
-                <a href="https://api.whatsapp.com/send?phone=917300042095&text=Hello%20Saffron%2C%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD" target="_blank" className="enq-side-btn-icone"><i className="fab fa-whatsapp" /> Click Here to Get ID</a>
+                <a href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD" target="_blank" className="enq-side-btn-icone"><i className="fab fa-whatsapp" /> Click Here to Get ID</a>
                 <section className="game-single-area pt-120 pb-120">
                     <div className="container">
                         <div className="row">
                             <div className="col-12">
-                                <div className="game-single-content">
+                                <div style={{ background: "#FFE4C9" }} className="game-single-content">
                                     <div className="upcoming-game-head">
                                         <div className="uc-game-head-title">
                                             <h4 style={{ color: '#000' }}>Game <span>Care</span></h4>
@@ -21,7 +21,7 @@ const Privacy = () => {
                                         in promoting responsible games. The fantasy sports platforms that we provide are purely a source of entertainment. We want to make sure that users are here for the right reasons. We only promote online fantasy sports, with
                                         absolutely no opportunity to win anything of value, such as prizes and money.
                                     </p>
-                                    <h4 style={{ color: '#000' }}>What is <span>fantasy sports? </span></h4>
+                                    <h4 style={{ color: 'blue' }}>What is <span>fantasy sports? </span></h4>
                                     <p>Fantasy Sports is a form of virtual or online sports, where a user can create an online ID to play virtual matches or tournaments. The players are selected based on the player's recent performances, the opposition, the playing
                                         conditions are a few. Ever since its advent in the late 90s that coincided with the internet boom, Fantasy Sports has taken off and is played by millions of people worldwide. In India, Fantasy Sports has been an absolute
                                         revelation. Over 120 million people are a part of this bandwagon and the number is ever-growing.
@@ -30,10 +30,10 @@ const Privacy = () => {
                                         thousands of fantasy sports players. It is one of India's finest and the most creative fantasy sports websites. The game interface makes sure that the user has the most amazing gameplay experience. Including players who've
                                         had a good run of form have to be preferred over personal choices.
                                     </p>
-                                    <h4 style={{ color: '#000' }}>Secure <span>Platform </span></h4>
+                                    <h4 style={{ color: 'blue' }}>Secure <span>Platform </span></h4>
                                     <p>Fantasy Sports on Saffron Exch Book is super safe, secure and legal. Fantasy cricket is a skill-based game and isn't considered gambling. It is 100% legal in India. Go to Saffron Exch Book now and start playing.
                                     </p>
-                                    <h4 style={{ color: '#000' }}>Terms and conditions
+                                    <h4 style={{ color: 'blue' }}>Terms and conditions
                                         <span> </span></h4>
                                     <p>Disclaimer:- This Website is only for 18+ users. Please Leave This Site If you are from Telangana, Orissa, Assam, Sikkim, and Nagaland. Beware of fraudsters, we only deal via WhatsApp. We only promote online fantasy sports,
                                         with absolutely no opportunity to win anything of value, such as prizes and money.</p>
@@ -59,7 +59,7 @@ const Privacy = () => {
                                         to the Saffron Exch Book website, the games therein, software, codes, copies, modifications, or merged parts.
                                     </p>
                                     <div className="game-single-title mt-60 mb-30">
-                                        <h4>Game Addiction </h4>
+                                        <h4 style={{ color: 'blue' }}>Game Addiction </h4>
                                         <p>This game maybe addictive, user discretion is advised. Fantasy sports maybe addictive to a certain extent, we advise to avoid playing the games continuously and take regular breaks while you play.
                                         </p>
                                         <p>Here are some tips you can apply while playing online fantasy sports- </p>
