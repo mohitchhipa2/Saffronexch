@@ -28,19 +28,19 @@ const Contact = () => {
         </section>
         <section className="game-single-area pt-120 pb-120">
           <div className="container">
-            <div className="row">
-              <div className="col-4">
+            <div className="row second-row">
+              <div className="col-md-3 ">
                 <li className="newaddere asdfgh">
                   <h5>Address:</h5>India
                   <a href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD"><i className="fa fa-map-marker" aria-hidden="true" /> </a> Delhi, India</li>
               </div>
-              <div className="col-4">
+              <div className="col-md-5 ">
                 <li className="newaddere ">
                   <h5>Email:</h5>
-                  <a href="mailto:info@Saffronexch.com"> <MdEmail />
+                  <a className='' href="mailto:info@Saffronexch.com"> <MdEmail />
                   </a> info@Saffronexch.com</li>
               </div>
-              <div className="col-4">
+              <div className="col-md-4">
                 <li className="newaddere">
                   <h5>Phone:</h5>
                   <a href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD"><FaWhatsapp /> </a>Whatsapp</li>

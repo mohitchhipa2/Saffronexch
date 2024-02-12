@@ -1,8 +1,12 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { IoMdMenu } from "react-icons/io";
+
 
 const Header = () => {
     const navigate = useNavigate();
+    const [show, setShow] = useState(false)
+
     return (
         <div>
 
@@ -23,11 +27,7 @@ const Header = () => {
                                             <ul className="sm-megamenu-hover sm_megamenu_menu sm_megamenu_menu_black">
                                                 {/*                        <li><a href="index.php">Home</a></li>*/}
                                                 <li onClick={() => navigate("/")}><a href=''>Home</a>
-                                                    {/*<ul>
-                     <li><a href="#">Food & Experience</a></li>
-                     <li><a href="#">Brand Legacy</a></li>
-                     <li><a href="#">Our Team</a></li>
-                 </ul>*/}
+
                                                 </li>
                                                 <li onClick={() => navigate("/contact")}><a href=''>Contact Us</a></li>
                                                 <li onClick={() => navigate("/privacy")} ><a href="">Privacy Policy</a></li>
@@ -35,6 +35,7 @@ const Header = () => {
                                         </ul>
                                     </div>
                                     <div className="header-top-action">
+
                                     </div>
                                 </div>
                             </div>
@@ -42,7 +43,22 @@ const Header = () => {
                     </div>
                 </div>
             </header>
-        </div>
+
+
+            <div style={{ background: '#131014' }} className='hello-boy'>
+                <div className='main-div'>
+                    <div>Get Trusted Online ID Here</div>
+                    <div className="header-social">
+                        <ul className="sm-megamenu-hover sm_megamenu_menu sm_megamenu_menu_black">  <li onClick={() => navigate("/")}><a href=''>Home</a>
+
+                        </li>
+                            <li onClick={() => navigate("/contact")}><a href=''>Contact Us</a></li>
+                            <li onClick={() => navigate("/privacy")} ><a href="">Privacy Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div >
     )
 }
 
