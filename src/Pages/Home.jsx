@@ -42,7 +42,7 @@ const Home = () => {
                     </div>
                 </section>
                 <section>
-                    <img style={{ width: "100%" }} src="./images/saffron-login.jpg" alt="" />
+                    <img style={{ width: "100%" }} src="/images/saffron-login.jpg" alt="" />
                 </section>
                 <section className="game-single-area pt-120 pb-120">
                     <div className="container">
@@ -55,7 +55,7 @@ const Home = () => {
                                         </div>
                                         <a target="_blank" href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD">
                                             <div className="uc-game-price">
-                                                <h5 style={{ color: 'blue' }}>Get Your ID NOW.</h5>
+                                                <h5 style={{ color: 'blue' }}>Get Your ID NOW</h5>
                                             </div>
                                         </a>
                                     </div>
