@@ -26,7 +26,10 @@ const Home = () => {
                 <main>
                     <Link target="_blank" to="https://wa.me/917300042095" className="enq-side-btn-icone"><i className="fab fa-whatsapp" /> Click Here to Get ID</Link>
                     <section className="slider-area slider-bg">
-                        <img style={{ width: "200px", height: "70px", marginLeft: "20px" }} src="./images/logo2.png" alt="" />
+                        <div style={{ display: "flex", justifyContent: "space-between", paddingLeft: "20px", paddingRight: "20px" }}>
+                            <img style={{ width: "180px", height: "60px" }} src="./images/logo2.png" alt="" />
+                            <img style={{ width: "120px", height: "100px" }} src="./images/laser.png" alt="" />
+                        </div>
                         <div className="container">
                             <div className="row justify-content-center">
                                 <div className="col-xl-9">
