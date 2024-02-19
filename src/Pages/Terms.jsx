@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const Terms = () => {
     return (
         <div>
-            <Link target="_blank" to="https://wa.me/917300042095">
+             
             <main>
                 <a href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD" target="_blank" className="enq-side-btn-icone"><i className="fab fa-whatsapp" /> Click Here to Get ID</a>
                 <section className="game-single-area pt-120 pb-120">
@@ -44,7 +44,7 @@ const Terms = () => {
                         </div>
                     </div></section>
             </main>
-</Link>
+ 
 
         </div>
     )
