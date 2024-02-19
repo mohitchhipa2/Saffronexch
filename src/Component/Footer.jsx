@@ -15,6 +15,7 @@ const Footer = () => {
                             <li onClick={() => navigate("/privacy")}><a href="">Privacy Policy</a></li>
                         </ul>
                     </div>
+                    <div style={{ display: "flex", justifyContent: "center", fontSize: "11px", color: "gray" }}>Please leave this site if you are from Telangana, Orissa, Assam, Sikkim, and Nagaland.</div>
                 </div>
             </footer>
 

@@ -35,18 +35,14 @@ const Home = () => {
                                     </div>
                                     <h6 className="wow fadeInDown" data-wow-delay=".2s">Saffron Exch [10 साल का भरोसा] - Get your Trusted Fantasy Sport</h6>
                                     <h2 className="tlt fix" data-in-effect="fadeInLeft">Trusted daily fantasy sport <span>10% Welcome Bonus</span></h2>
-                                    <p className="wow fadeInUp" data-wow-delay="2s">India's no. 1 Daily online Fantasy Sport games promoter. Create your Account within 2 minutes! Join Most Trusted, Secure &amp; Fastest Fantasy Sport of India.</p>
-                                    <a target="_blank" href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD" className="btn wow fadeInUp" data-wow-delay="2.2s">Whatsapp Now For Create Id</a>
+                                    <p style={{ marginBottom: "10px" }} className="wow fadeInUp" data-wow-delay="2s">India's no. 1 Daily online Fantasy Sport games promoter. Create your Account within 2 minutes! Join Most Trusted, Secure &amp; Fastest Fantasy Sport of India.</p>
+                                    <a style={{ marginBottom: "15px" }} target="_blank" href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD" className="btn wow fadeInUp" data-wow-delay="2.2s">Whatsapp Now For Create Id</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </section>
-                <section>
-                    <div className='safron-img'>
-                        <img src="" alt="" />
-                    </div>
-                </section>
+
                 <section className="game-single-area pt-120 pb-120">
                     <div className="container">
                         <div className="row">
