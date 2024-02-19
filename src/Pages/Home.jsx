@@ -62,10 +62,10 @@ const Home = () => {
                                     <p>Welcome to Saffron Exch, we offer you a genuinely unique fantasy sports experience. Besides, We have a global network and provide the best industry experience with a single click.</p>
                                     <p>Saffron Exch is a responsible fantasy sports promoter. We deal in all kinds of fantasy sports games. We have helped 50000+ players to find the best fantasy sports online.</p>
                                     <p>Our Company Works In A Very Transparent Way. Get Your Demo ID Now</p>
-                                    <div className="game-single-title mt-60 mb-30">
+                                    <div className="game-single-title mt-30 mb-30">
                                         <h4 style={{ color: "blue" }}>Why Choose Us</h4>
                                     </div>
-                                    <div className="game-single-info mb-65">
+                                    <div className="game-single-info mb-20">
                                         <ul>
                                             <li>24*7 Support</li>
                                             <li>Instant Reply</li>
@@ -75,8 +75,8 @@ const Home = () => {
                                             <li>Working Since 2010</li>
                                         </ul>
                                     </div>
-                                    <div className="footer-widget mb-50">
-                                        <div className="fw-title mb-35">
+                                    <div className="footer-widget mb-0">
+                                        <div className="fw-title mb-25">
                                             <h5 style={{ color: 'blue' }}>Follow us</h5>
                                         </div>
                                         <div className="footer-social">
