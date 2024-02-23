@@ -32,7 +32,37 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
+  }
+}
+
+
+
+.containers {
+  position: relative;
+  margin-left: 10px;
+}
+
+.blinking-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  animation: blink 5s infinite;
+  border-radius: 5px;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
   }
 }
