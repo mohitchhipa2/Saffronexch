@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import { IoMdMenu } from "react-icons/io";
 
 
@@ -28,7 +28,7 @@ const Header = () => {
                                                 <li onClick={() => navigate("/")}><a href=''>Home</a>
 
                                                 </li>
-                                                <li onClick={() => navigate("/contact")}><a href=''>Contact Us</a></li>
+                                                <li onClick={() => navigate("/contact")}><a href='https://wa.me/917300042095'>Contact Us</a></li>
                                                 <li onClick={() => navigate("/privacy")} ><a href="">Privacy Policy</a></li>
                                             </ul>
                                         </ul>
