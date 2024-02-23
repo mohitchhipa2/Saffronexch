@@ -23,7 +23,11 @@ const Home = () => {
             <main>
                 <Link target="_blank" to="https://wa.me/917300042095" className="enq-side-btn-icone"><i className="fab fa-whatsapp" /> Click Here to Get ID</Link>
                 <section className="slider-area slider-bg">
-                    <marquee behavior="" direction="right">100₹ ke recharge pe 300% bonus Offer</marquee>
+                    <marquee style={{ fontSize: "20px", marginTop: "5px" }} behavior="" direction="right">
+                        <div style={{ display: "flex", justifyContent: "space-around" }}>
+                            <div>100₹ ke recharge pe 300% bonus Offer </div>
+                            <div>100₹ ke recharge pe 300% bonus Offer </div></div>
+                    </marquee>
                     <div className="container">
                         <div className="row justify-content-center">
                             <div className="col-xl-9">
@@ -32,7 +36,7 @@ const Home = () => {
                                         <a target="_blank" href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD"><img src="./images/scorecard-logo.png" alt="Logo" width="200px" /></a>
                                     </div>
                                     <h6 className="wow fadeInDown" data-wow-delay=".2s">Saffron Exch [10 साल का भरोसा] - Get your Trusted Fantasy Sport</h6>
-                                    <h2 className="tlt fix" data-in-effect="fadeInLeft">Trusted daily fantasy sport <span>10% Welcome Bonus</span></h2>
+                                    <h2 className="tlt fix" data-in-effect="fadeInLeft">300% bonus on the  <span>recharge of the Rs 100</span></h2>
                                     <p style={{ marginBottom: "10px" }} className="wow fadeInUp" data-wow-delay="2s">India's no. 1 Daily online Fantasy Sport games promoter. Create your Account within 2 minutes! Join Most Trusted, Secure &amp; Fastest Fantasy Sport of India.</p>
                                     <a style={{ marginBottom: "15px" }} target="_blank" href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD" className="btn wow fadeInUp" data-wow-delay="2.2s">Whatsapp Now For Create Id</a>
                                 </div>
