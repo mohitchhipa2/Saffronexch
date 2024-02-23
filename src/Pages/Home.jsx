@@ -20,12 +20,10 @@ import { Link } from 'react-router-dom'
 const Home = () => {
     return (
         <div>
-
-
-
             <main>
                 <Link target="_blank" to="https://wa.me/917300042095" className="enq-side-btn-icone"><i className="fab fa-whatsapp" /> Click Here to Get ID</Link>
                 <section className="slider-area slider-bg">
+                    <marquee behavior="" direction="right">100₹ ke recharge pe 300% bonus Offer</marquee>
                     <div className="container">
                         <div className="row justify-content-center">
                             <div className="col-xl-9">

@@ -7,10 +7,9 @@ const Header = () => {
     const navigate = useNavigate();
     const [show, setShow] = useState(false)
 
+
     return (
         <div>
-
-
             <header>
                 <div className="header-top-area s-header-top-area d-none d-lg-block">
                     <div className="container-fluid s-container-full-padding">
