@@ -28,10 +28,7 @@ const Home = () => {
                             <div>100₹ ke recharge pe 300% bonus Offer </div>
                             <div>100₹ ke recharge pe 300% bonus Offer </div></div>
                     </marquee>
-                    <div className="containers">
-                        <img width={"200px"} src="./images/blink-image.jpg" alt="Blinking Image" className="blinking-image" />
-                    </div>
-
+                     
                     <div className="container">
                         <div className="row justify-content-center">
                             <div className="col-xl-9">

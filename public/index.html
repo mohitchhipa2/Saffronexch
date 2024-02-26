@@ -32,6 +32,24 @@
 
     gtag('config', 'AW-16458603214');
   </script>
+
+
+
+  <script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof (url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+        'send_to': 'AW-16458603214/tWldCJjJ4JQZEM61iag9',
+        'event_callback': callback
+      });
+      return false;
+    }
+  </script>
+
   <title>React App</title>
 </head>
 
