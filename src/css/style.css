@@ -1423,7 +1423,7 @@ ul.minicart .cart-price .new {
 /* 5. Slider */
 
 .slider-bg {
-    background-image: url("https://sportsidprovider.online/img/slider/slider_bg.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url(../../public/images/bing-banner.jpg) !important;
     background-position: center;
     background-size: cover;
     /* padding: 46px 0; */
